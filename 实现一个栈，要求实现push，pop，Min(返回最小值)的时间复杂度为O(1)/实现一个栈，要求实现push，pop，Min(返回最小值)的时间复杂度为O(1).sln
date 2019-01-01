@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "实现一个栈，要求实现push，pop，Min(返回最小值)的时间复杂度为O(1)", "实现一个栈，要求实现push，pop，Min(返回最小值)的时间复杂度为O(1)\实现一个栈，要求实现push，pop，Min(返回最小值)的时间复杂度为O(1).vcxproj", "{754BEA9C-BF99-4A69-A72E-6047CDF0CE29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754BEA9C-BF99-4A69-A72E-6047CDF0CE29}.Debug|Win32.ActiveCfg = Debug|Win32
+		{754BEA9C-BF99-4A69-A72E-6047CDF0CE29}.Debug|Win32.Build.0 = Debug|Win32
+		{754BEA9C-BF99-4A69-A72E-6047CDF0CE29}.Release|Win32.ActiveCfg = Release|Win32
+		{754BEA9C-BF99-4A69-A72E-6047CDF0CE29}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
