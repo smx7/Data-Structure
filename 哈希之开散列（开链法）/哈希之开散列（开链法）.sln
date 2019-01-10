@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "哈希之开散列（开链法）", "哈希之开散列（开链法）\哈希之开散列（开链法）.vcxproj", "{36559E7A-3EB9-42DF-A5C8-D58435A0066E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36559E7A-3EB9-42DF-A5C8-D58435A0066E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{36559E7A-3EB9-42DF-A5C8-D58435A0066E}.Debug|Win32.Build.0 = Debug|Win32
+		{36559E7A-3EB9-42DF-A5C8-D58435A0066E}.Release|Win32.ActiveCfg = Release|Win32
+		{36559E7A-3EB9-42DF-A5C8-D58435A0066E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
