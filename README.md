@@ -19,3 +19,4 @@ data structure codes
 
 1-10 哈希
 1-11 注释转换
+1-12 位图
